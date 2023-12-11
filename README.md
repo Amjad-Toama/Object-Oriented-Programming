@@ -37,7 +37,7 @@ This project, implemented in the Smalltalk programming language, delves into Obj
 
 **How to Use:**
 1. Download or clone the Smalltalk project.
-2. Add Shapes.st file into Squeak environment.
+2. Add ShapeCategory.st file into Squeak environment.
 3. Dive into the source code to explore the implementation of `MyShape`, `MyRectangle`, `MyTriangle`, and `MySquare` classes.
 4. Execute the tests within the `MyShapeTest` class to validate the correctness of the implemented functionality.
 5. Into the Workspace create instance as you wish.
